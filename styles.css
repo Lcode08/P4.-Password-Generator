@@ -298,6 +298,9 @@ h1 {
     .input-container {
         padding: 1.5rem; /* Adjusted padding */
     }
+    .copyBtn{
+        z-index: 10;
+    }
 }
 
 /* for activating the slider thumb behaviour in firefox  */
