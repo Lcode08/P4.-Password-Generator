@@ -196,7 +196,6 @@ h1 {
     background-color: transparent;
     border:none;
     outline:none;
-    z-index: 10;
 }
 
 .tooltip {
@@ -298,9 +297,6 @@ h1 {
 
     .input-container {
         padding: 1.5rem; /* Adjusted padding */
-    }
-    .copyBtn{
-        z-index: 10;
     }
 }
 
